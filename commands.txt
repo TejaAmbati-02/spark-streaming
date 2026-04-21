@@ -1,0 +1,2 @@
+pipenv shell -> Create or init env
+pipenv install pytest pyspark -> Install pyspark, pytest
